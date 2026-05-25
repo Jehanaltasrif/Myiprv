@@ -705,8 +705,6 @@ https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
-http://103.60.204.26:3255/ZeeCinemaHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol
@@ -1102,8 +1100,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcine
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/4yhj7Tz5/Zee-Hindustan1.jpg" group-title="INDIAN", Zee Hindustan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/ZYs328jF/Zee-Cinemalu.png" group-title="INDIAN", Zee Cinemalu
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg" group-title="INDIAN", Zee Bollywood
 https://m3uplay.com/leo/live.m3u8?id=487&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png" group-title="INDIAN", Zee Action
