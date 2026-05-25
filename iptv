@@ -976,12 +976,7 @@ http://xtv.ooo:8080/3329133813/3329133813/355010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" ,IN | STAR SPORTS SELECT 2
 http://xtv.ooo:8080/3329133813/3329133813/167579
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS SELECT 1
-http://xtv.ooo:8080/3329133813/3329133813/167578272ba4181a246bc40d4bab3c8e088d46, TSN 5 🇨🇦
 http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 group-title="SPORTS",T20 WORLD CUP 01
-http://xtv.ooo:8080/3329133813/3329133813/219643
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" tvg-id="foxsports501hd.au" ,AU: FOX CRICKET 501
-http://xtv.ooo:8080/3329133813/3329133813/167593
 #EXTINF: -1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s" group-title="SPORTS", ESPN-2
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="SPORTS"tag-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn 1
@@ -992,15 +987,7 @@ http://14.128.12.54/cric/m3u8.php/willowusa.m3u8
 https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , ESPN 3
 https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/t2knfhmd/cricket-8.png?width=200" , ESPN 4
-https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2021/10/asportshd001.jpg" , ESPN 5
-https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png" , ESPN 6
-https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" , PTV SPORTS HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
-https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" ,CRI: JIO CRICKET HD
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,CRI: TEN CRICKET HD
