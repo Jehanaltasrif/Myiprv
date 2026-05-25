@@ -151,12 +151,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-vid
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/qmtN" group-title="BANGLADESHI", Nexus Tv
 https://tvsen6.aynaott.com/nexustv/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ecXmhgz.jpg" group-title="BANGLADESHI", Nagorik Songlap
-http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ecXmhgz.jpg" group-title="BANGLADESHI", The Channel Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9PXSW7a.jpg" group-title="BANGLADESHI", NAN TV
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png" group-title="BANGLADESHI", NRB HD Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF: -1 tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg" group-title="BANGLADESHI", Ntv Europe
@@ -194,8 +188,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yRS012W/images-19.jpg" group-title="BANGLADESHI", Time Television
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", IOV TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Nbw3bKO.png" group-title="BANGLADESHI", Probashi Tv
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tfPlgYv.jpg" group-title="BANGLADESHI", Varendra Tv
