@@ -942,10 +942,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
-Sports...........
-
-#EXTINF:-1 group-title="SPORTS"tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" , Asia cup
-https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_720p.m3u8
+Sports....
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)
 http://xtv.ooo:8080/3329133813/3329133813/109992
@@ -955,20 +952,6 @@ https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 http://xtv.ooo:8080/3329133813/3329133813/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
 http://xtv.ooo:8080/3329133813/3329133813/167580
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 1
-http://dv.t-tvbd.xyz:8080/live/Reduan@728/Reduan@728/408.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 2
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 3
-http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 4
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 5
-http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" , TEN SPORTS
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , TNT
-http://14.128.12.54/cric/m3u8.php/bbtsp1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , StarzPlay Criclife 2
 http://xtv.ooo:8080/3329133813/3329133813/355009
 #EXTINF:-1 group-title="SPORTS" , StarzPlay Criclife 3
@@ -1008,27 +991,12 @@ http://103.175.242.10:8080/02-Starsport1/tracks-v1a1/mono.m3u8
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237052
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" ,SONY Ten 2 HD #1
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237213
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" ,DSTV : SUPERSPORTS PREMIER LEAGUE HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237218
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" , Sony Sports 1
 http://172.20.21.22/live/skyfeed1007/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" , Sony Sports 3
 https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,BEIN SPORT ENGLISH 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" ,BEIN SPORT ENGLISH 1
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://j.top4top.io/p_25633k15q1.png" ,|AR| BEIN SPORT 3 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237224
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,|AR| BEIN SPORT  2 HD
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/Bein%20sports%20hd%201.png" ,|AR| BEIN SPORT  1 HD
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : AD SPORT 1 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299882
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : Redbull Tv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : DUBAI SPORT 1 HD
 
 Cartoon--
 
