@@ -257,66 +257,7 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
-Music --
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="MUSIC", Arabic Music
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC", Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" group-title="MUSIC", Dhoom Music
-
-https://tvsen6.aynaott.com/dhoom/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eJVyPpD.jpg" group-title="MUSIC", Robindo songit
-http://tinyurl.com/Rabindrasang
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtv beat
-http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Jalwa
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan
-https://etr.bongoflix.top/live/dbefbb0b-b2e0-4e34-8108-8852d53ee766.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
-http://xtv.ooo:8080/live/3329133813/3329133813/346356.ts
-#EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmi Gane
-https://is.gd/WOeLN9.m3u8 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FztbHTPS/NOW-80s-logo.png" group-title="MUSIC", 80s
-http://xtv.ooo:8080/live/3329133813/3329133813/346357.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", V2BEAT TV
-https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", GiaTv
-https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
-http://103.180.212.191:3500/live/183.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Hitz
-https://tvsen7.aynaott.com/B4UHitz/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="MUSIC", SHOW BOX
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC", JOO MUSIC
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/grthh0o.png" group-title="MUSIC", ZooM Music
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF: -1 tvg-logo="httpb4u s://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", ZING MUSIC
-https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
-https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
-https://etr.bongoflix.top/live/0fc15069-e437-4138-a1bd-f62aaa93773e.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Up3mWkD.jpg" group-title="INDIAN", ABZY Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-#EXTINF: -1 tvg-logo="http://surl.li/pjduvy" group-title="INDIAN", Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF: -1 tvg-logo="http://surl.li/upxnmg" group-title="INDIAN", Bollywood HD
-https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
@@ -476,7 +417,7 @@ http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tfPlgYv.jpg" group-title="BANGLADESHI", Varendra Tv
 https://3329133813.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
 
-
+KOLKATA
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", ABP ANANDA TV
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="KOLKATA", Amar Digital
@@ -487,7 +428,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", Colors Bangla Cinama
@@ -527,6 +467,59 @@ https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
+Music --
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="MUSIC", Arabic Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC", Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" group-title="MUSIC", Dhoom Music
+
+https://tvsen6.aynaott.com/dhoom/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eJVyPpD.jpg" group-title="MUSIC", Robindo songit
+http://tinyurl.com/Rabindrasang
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtv beat
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Jalwa
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan
+https://etr.bongoflix.top/live/dbefbb0b-b2e0-4e34-8108-8852d53ee766.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
+http://xtv.ooo:8080/live/3329133813/3329133813/346356.ts
+#EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmi Gane
+https://is.gd/WOeLN9.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FztbHTPS/NOW-80s-logo.png" group-title="MUSIC", 80s
+http://xtv.ooo:8080/live/3329133813/3329133813/346357.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", GiaTv
+https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
+http://103.180.212.191:3500/live/183.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Hitz
+https://tvsen7.aynaott.com/B4UHitz/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="MUSIC", SHOW BOX
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC", JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/grthh0o.png" group-title="MUSIC", ZooM Music
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF: -1 tvg-logo="httpb4u s://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", ZING MUSIC
+https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
+https://etr.bongoflix.top/live/0fc15069-e437-4138-a1bd-f62aaa93773e.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="MUSIC", Arabic Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", E24
@@ -558,7 +551,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Hitz
 https://tvsen7.aynaott.com/B4UHitz/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
@@ -579,7 +571,12 @@ https://etr.bongoflix.top/live/0fc15069-e437-4138-a1bd-f62aaa93773e.m3u8
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55208.ts
 
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Up3mWkD.jpg" group-title="INDIAN", ABZY Movies
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+#EXTINF: -1 tvg-logo="http://surl.li/pjduvy" group-title="INDIAN", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF: -1 tvg-logo="http://surl.li/upxnmg" group-title="INDIAN", Bollywood HD
+https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Up3mWkD.jpg" group-title="INDIAN", ABZY Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF: -1 tvg-logo="http://surl.li/pjduvy" group-title="INDIAN", Bollywood Classic
