@@ -355,8 +355,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 https://jatv.sonarbanglatv.com/jatv/jatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lL2Iyx9.jpg" group-title="BANGLADESHI", Jagoroni Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BHJMbnO.jpg" group-title="BANGLADESHI", Ktv Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV
@@ -367,8 +365,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/qmtN" group-title="BANGLADESHI", Nexus Tv
 https://tvsen6.aynaott.com/nexustv/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ecXmhgz.jpg" group-title="BANGLADESHI", Nagorik Songlap
-http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ecXmhgz.jpg" group-title="BANGLADESHI", The Channel Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9PXSW7a.jpg" group-title="BANGLADESHI", NAN TV
@@ -787,16 +783,6 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
 https://tvsen6.aynaott.com/foodnetwork/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Tplay music
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bollywood Movies
-https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Dubbed movies
-https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bangla Song
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bangla Movies
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 
 Sports....
 
@@ -804,8 +790,8 @@ Sports....
 http://xtv.ooo:8080/3329133813/3329133813/109992
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-id="dsport.in" ,Sony Liv
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" ,IN | SONY TEN 5
-http://xtv.ooo:8080/3329133813/3329133813/167580
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" , Cricket Gold
+https://tvsen6.aynaott.com/CricketGold/index.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
 http://xtv.ooo:8080/3329133813/3329133813/167580
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , StarzPlay Criclife 2
@@ -818,8 +804,8 @@ http://xtv.ooo:8080/3329133813/3329133813/167579
 http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF: -1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s" group-title="SPORTS", ESPN-2
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="SPORTS"tag-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn 1
-https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="SPORTS"tag-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn 
+https://tvsen5.aynaott.com/espn/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" ,CRI: WILLOW CRICKET HD #1
 http://14.128.12.54/cric/m3u8.php/willowusa.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46" , ESPN 2
@@ -906,8 +892,8 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors
 http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey
-http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Infinity
+http://103.175.73.12:8080/live/29/29_0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/20dvTcf.png" group-title="INDIAN", Colors Cinneplex Bollywood
 https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Colors  Superhit
@@ -1084,8 +1070,7 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
 http://v5on.site/yt-live/live.php?video_id=q8XK6oJTbtI.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
-http://103.175.242.10:8080/natgeo/index.m3u8
-https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild
 http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
@@ -1106,9 +1091,21 @@ Tplay------------
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Tplay music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bollywood Movies
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Dubbed movies
+https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bangla Song
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bangla Movies
+https://tplay.live/playlist/movies/bangla-movies/index.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Tplay music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Dubbed Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+XTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Movies 24*7
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+
 
 sports..
 
@@ -1187,8 +1184,7 @@ https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png" , ESPN 6
 https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" , PTV SPORTS HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
-https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" ,CRI: JIO CRICKET HD
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,CRI: TEN CRICKET HD
