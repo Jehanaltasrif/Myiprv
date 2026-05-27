@@ -6,8 +6,6 @@ http://164.215.98.132:2082/8649G54859/8649G54859/396
 https://tvsen6.aynaott.com/islam/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmLamwxnbUBIcjoZyLbpc_v39PoOf6vtFCROl8ovDDmGNPnX_KOTZJXA&s=10.jpg" group-title="Islamic",Iqra
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-sJSl_a2sQ_9sYgRNh0-CKehgFcLdMJ0iA&s", Tv one
-https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/1tKGR5gv/image.jpg" ,peace tv Bangla HD 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn6PqwktJ2ZCb0oUNmXcCnFqSqzSfvwXi2g&s.jpg", Noor tv
@@ -30,8 +28,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://tvsen6.aynaott.com/islam/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmLamwxnbUBIcjoZyLbpc_v39PoOf6vtFCROl8ovDDmGNPnX_KOTZJXA&s=10.jpg" group-title="Islamic",Iqra
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-sJSl_a2sQ_9sYgRNh0-CKehgFcLdMJ0iA&s", Tv one
-https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/1tKGR5gv/image.jpg" ,peace tv Bangla HD
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn6PqwktJ2ZCb0oUNmXcCnFqSqzSfvwXi2g&s.jpg", Noor tv
@@ -52,6 +48,7 @@ http://164.215.98.132:2082/8649G54859/8649G54859/71444
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
 
+BANGLADESHI0
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
@@ -200,61 +197,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tfPlgYv.jpg" group-title="BANGLADESHI", Varendra Tv
 https://3329133813.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
-
-kolkata....
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", ABP ANANDA TV
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="KOLKATA", Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg" group-title="KOLKATA", Akash 8
-#http://38.96.178.201/live/AkashAath/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", Bangla+
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
-https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Sanonda tv
-https://live.sanandatelevision.in/sananda/index.m3u8
-#EXTINF: -1 tvg-logo="https://tinyurl.com/9k5d97ue" group-title="KOLKATA", Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/QaTnRJq.png" group-title="KOLKATA", R Bangla
-https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bUhoxxw.png" group-title="KOLKATA", News 18
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwZQFXi9vdY39Mc6-Fd2Bv1IuweN5oE7Fg3L4SjsFtXCDmJmUFOxRnqM&s=10.png" group-title="KOLKATA", Mon tv
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/rFRWH9gQ/image.jpg" group-title="KOLKATA", DESI MUSIC
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla
-https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="KOLKATA", Sun Bangla Cinema
-http://103.161.153.165:8000/play/a00l/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
-https://sristi1.livebox.co.in/sristihls/live.m3u8
-#EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
-https://cdn-4.pishow.tv/live/969/master.m3u8
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
-https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="KOLKATA", Tara Bangla Cinema
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF: -1 tvg-logo="https://da.gd/oPlwK" group-title="KOLKATA", TV9
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
-#EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
-http://103.60.204.26:3255/ZeeBangla/index.m3u8
-#EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
-https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-
-
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla 
@@ -387,29 +329,14 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
 https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png" group-title="BANGLADESHI", CHANNEL S uk
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/RKwkO" group-title="BANGLADESHI", T Sports
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eeANyjD.jpg" group-title="BANGLADESHI", TBN 24
-https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8 
-https://www.tbn24.com/live-tv-stream/20201_.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qKf0Ih3.png" group-title="BANGLADESHI", TV ONE
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AnUlFWN.jpg" group-title="BANGLADESHI", Times 24
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/yRS012W/images-19.jpg" group-title="BANGLADESHI", Time Television
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", IOV TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Nbw3bKO.png" group-title="BANGLADESHI", Probashi Tv
-http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tfPlgYv.jpg" group-title="BANGLADESHI", Varendra Tv
-https://3329133813.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
 
-KOLKATA
+
+KOLKATA0
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", ABP ANANDA TV
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="KOLKATA", Amar Digital
@@ -456,6 +383,55 @@ http://38.96.178.201/live/RuposhiBangla/index.m3u8
 https://go.iptvpulse.top/du4e.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", ABP ANANDA TV
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="KOLKATA", Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg" group-title="KOLKATA", Akash 8
+#http://38.96.178.201/live/AkashAath/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Sanonda tv
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF: -1 tvg-logo="https://tinyurl.com/9k5d97ue" group-title="KOLKATA", Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QaTnRJq.png" group-title="KOLKATA", R Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bUhoxxw.png" group-title="KOLKATA", News 18
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwZQFXi9vdY39Mc6-Fd2Bv1IuweN5oE7Fg3L4SjsFtXCDmJmUFOxRnqM&s=10.png" group-title="KOLKATA", Mon tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/rFRWH9gQ/image.jpg" group-title="KOLKATA", DESI MUSIC
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="KOLKATA", Sun Bangla Cinema
+http://103.161.153.165:8000/play/a00l/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
+https://sristi1.livebox.co.in/sristihls/live.m3u8
+#EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
+https://cdn-4.pishow.tv/live/969/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
+https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="KOLKATA", Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF: -1 tvg-logo="https://da.gd/oPlwK" group-title="KOLKATA", TV9
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
+#EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
+http://103.60.204.26:3255/ZeeBangla/index.m3u8
+#EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
