@@ -534,8 +534,6 @@ https://tvsen6.aynaott.com/dhoom/tracks-v1a1/mono.ts.m3u8
 http://tinyurl.com/Rabindrasang
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtv beat
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
-https://vodzong.mjunoon.tv:8087/streamtest
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/X7kY6Ywy/image86b5f8b135364512.png" group-title="MUSIC", 9xm Music
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan
@@ -603,9 +601,6 @@ https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colors
 https://channel31.mdc6.com/1180273453/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF: -1 tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", All Time Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
 https://tvsen7.aynaott.com/DhamakaMovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
