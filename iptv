@@ -536,6 +536,7 @@ https://etr.bongoflix.top/live/0fc15069-e437-4138-a1bd-f62aaa93773e.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wjwzXVpV/image.png" group-title="MUSIC", Zee Etc
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55208.ts
 
+BOLLYWOOD----
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Up3mWkD.jpg" group-title="INDIAN", ABZY Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
@@ -651,6 +652,7 @@ https://janya-rdcmovies.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca141
 http://cdn2.pishow.tv/live/140/master.m3u8
 
 
+hollywood----
 
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
 http://xtv.ooo:8080/3329133813/11223344/66211
