@@ -774,8 +774,8 @@ https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="SPORTS"tag-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn 
 https://tvsen5.aynaott.com/espn/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" ,CRI: WILLOW CRICKET HD #1
-http://14.128.12.54/cric/m3u8.php/willowusa.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" ,CRI: WILLOW CRICKET
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46" , ESPN 2
 https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , ESPN 3
@@ -789,8 +789,8 @@ http://xtv.ooo:8080/live/3329133813/3329133813/167587.ts
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277343
 #EXTINF:-1 group-title="SPORTS" ,CRI: SONY Ten 2 HD.
 http://xtv.ooo:8080/live/3329133813/3329133813/109984.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" ,CRI: SONY TEN 3 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277345
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" , xtream sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" ,CRI: STAR SPORTS 2 HD
 http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" ,CRI: STAR SPORTS HINDI HD #1
@@ -1017,7 +1017,7 @@ https://tvsen6.aynaott.com/discovery_hd_bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Wild Animal
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
-http://xtv.ooo:8080/3329133813/11223344/346431
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" , Animel planet
@@ -1026,8 +1026,8 @@ https://os.mxonlive.workers.dev/azers/animalplanethd/276935.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
 https://tvsen6.aynaott.com/discovery_turbo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
-http://xtv.ooo:8080/live/3329133813/11223344/206280.ts
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd, Adventure Earth 
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2212.ts
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
