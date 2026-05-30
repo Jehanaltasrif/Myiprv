@@ -98,7 +98,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
-#EXTINF: -1 tvg-logo="https://da.gd/zqzTPn.jpg" group-title="BANGLADESHI", Srktv
+#EXTINF: -1 tvg-logo="https://da.gd/vemYYx.jpg" group-title="BANGLADESHI", Srktv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
@@ -156,7 +156,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=2407200.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
-#EXTINF: -1 tvg-logo="https://da.gd/qmtN" group-title="BANGLADESHI", Nexus Tv
+#EXTINF: -1 tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="BANGLADESHI", Nexus Tv
 https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png" group-title="BANGLADESHI", NRB HD Tv
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
