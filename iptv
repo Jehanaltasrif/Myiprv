@@ -697,8 +697,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Documentary" ,AF: FashionTV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,BE: FashionTV
 http://xtv.ooo:8080/3329133813/11223344/348339
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
@@ -707,8 +705,6 @@ http://xtv.ooo:8080/3329133813/11223344/346445
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Comidy Family
 https://tvsen5.aynaott.com/discoveryfamily/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
-http://xtv.ooo:8080/3329133813/11223344/346431
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://surl.li/qgtwns" , Dicovery Sony BBC EARTH 
 https://edge2.roarzone.net:8447/roarzone/edge3/sonybbc_earth_hd/index.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
@@ -1005,7 +1001,7 @@ Documantry---
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 group-title="Documentary" ,AF: FashionTV
-http://xtv.ooo:8080/3329133813/11223344/347499
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,BE: FashionTV
 http://xtv.ooo:8080/3329133813/11223344/348339
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
@@ -1248,8 +1244,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_
 http://xtv.ooo:8080/live/3329133813/11223344/150483.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SwO1IA2.png" group-title="CARTOON", SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="CARTOON", Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Hungama tv
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Super Hungama tv
@@ -1294,7 +1288,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF: -1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="CARTOON", KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JYQvZ9K.png" group-title="CARTOON", Tom & Jerry
-https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 FM RADIO
 
