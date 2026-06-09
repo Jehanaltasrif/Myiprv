@@ -618,7 +618,7 @@ http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol
-https://live.iamfreedishbhai.workers.dev/zee/0-9-zeeanmolcinema.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wTgPj599/image.jpg" group-title="INDIAN", Zee News
@@ -919,8 +919,6 @@ http://170.254.18.107/ZEE/index.m3u8
 https://m3uplay.com/leo/live.m3u8?id=484&e=.m3u8|referer=https://m3uplay.com/
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol
-https://live.iamfreedishbhai.workers.dev/zee/0-9-zeeanmolcinema.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wTgPj599/image.jpg" group-title="INDIAN", Zee News
