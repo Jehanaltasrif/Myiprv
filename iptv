@@ -651,10 +651,10 @@ http://89.187.191.99:8080/foxmovie/index.m3u8
 https://mflixott.com/tv/toffee/live.php?id=sonypix_hd&e=.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO HD
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/.in.png" tvg-id="axnhd.in" ,IN |  HD
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.m3u8
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO FAMILY
-https://tvsen7.aynaott.com/hbo2/index.m3u8
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/.in.png" tvg-id="axnhd.in" ,IN |  FAMILY
+https://tvsen7.aynaott.com/2/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix FHD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
@@ -938,9 +938,9 @@ http://xtv.ooo:8080/3329133813/11223344/66211
 http://89.187.191.99:8080/foxmovie/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO HD
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/.in.png" tvg-id="axnhd.in" ,IN |  HD
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.m3u8
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO FAMILY
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/.in.png" tvg-id="axnhd.in" ,IN |  FAMILY
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.m3u8 
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix FHD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
@@ -1159,8 +1159,8 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237224
 
 Cartoon--
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
-https://tvsen6.aynaott.com/Khushboo/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSO BANGLA
+https://tvsen6.aynaott.com/Khuso/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv
 https://etr.bongoflix.top/live/d7541d99-14a5-4775-b90f-8681070ba80a.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LZPwHc2.png" group-title="CARTOON", Disney HD
