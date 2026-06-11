@@ -174,7 +174,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF: -1 tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="BANGLADESHI", Somoy News
 https://edge2.roarzone.net:8447/roarzone/edge1/2/tracks-v1/index.ll.m3u8?token=08e878e2161d1bb4ad660b1fd5e1158507ddf12d-075844808c38f104daea20616582e439-1781183196-1781172396&_HLS_msn=1039&_HLS_part=0
-XTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNbSPcaNlKveQAJ7MCkRLv-BVNyJlxWGxcg&s" group-title="BANGLADESHI", channel One
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNbSPcaNlKveQAJ7MCkRLv-BVNyJlxWGxcg&s" group-title="BANGLADESHI", channel One
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/E6jSFv" group-title="BANGLADESHI", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
@@ -696,20 +696,20 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 http://xtv.ooo:8080/3329133813/11223344/348339
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
 http://xtv.ooo:8080/3329133813/11223344/346445
-#EXTINF:-1 group-title="Documentary" Discovery  Science
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+#EXTINF:-1 group-title="Documentary" very  Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/very-Science.m3u8
 #EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Comidy Family
-https://tvsen5.aynaott.com/discoveryfamily/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/veryfamily/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://surl.li/qgtwns" , Dicovery Sony BBC EARTH 
-https://edge2.roarzone.net:8447/roarzone/edge3/sonybbc_earth_hd/index.m3u8
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" , Animel planet
 https://os.mxonlive.workers.dev/azers/animalplanethd/276935.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery
+#EXTINF:-1 group-title="Documentary" tvg-id="veryhd.in" ,very
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
-https://tvsen6.aynaott.com/discovery_turbo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/very_Turbo.png" tvg-id="veryturbo.in" ,IND: very Turbo
+https://tvsen6.aynaott.com/very_turbo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
 http://xtv.ooo:8080/live/3329133813/11223344/206280.ts
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
@@ -733,7 +733,7 @@ http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
+#EXTINF:-1 group-title="Documentary" tvg-id="Investigationvery.ca" ,IND: Investigation very Hindi
 http://v5on.site/yt-live/live.php?video_id=33wTmmoIMWY.m3u8 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
 http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8 
@@ -970,9 +970,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 http://xtv.ooo:8080/3329133813/11223344/348339
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
 http://xtv.ooo:8080/3329133813/11223344/346445
-#EXTINF:-1 group-title="Documentary" Discovery  Science
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-https://tvsen6.aynaott.com/discovery_hd_bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Documentary" very  Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/very-Science.m3u8
+https://tvsen6.aynaott.com/very_hd_bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Wild Animal
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Animal Planet
@@ -981,12 +981,10 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" , Animel planet
-https://os.mxonlive.workers.dev/azers/animalplanethd/276935.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
-https://tvsen6.aynaott.com/discovery_turbo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="veryhd.in" ,Discovery
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/very_Turbo.png" tvg-id="veryturbo.in" ,IND: very Turbo
+https://tvsen6.aynaott.com/very_turbo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd, Adventure Earth 
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
@@ -1008,8 +1006,8 @@ https://tvsen6.aynaott.com/tlc_hd/tracks-v1a1/mono.ts.m3u8
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
-http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="Investigationvery.ca" ,IND: Investigation very Hindi
+http://151.80.18.177:86/very_HD/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
 http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
@@ -1160,7 +1158,7 @@ https://etr.bongoflix.top/live/d7541d99-14a5-4775-b90f-8681070ba80a.m3u8
 https://tvsen7.aynaott.com/disneyjr/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Nickelodeon
 https://tvsen7.aynaott.com/nicktoons/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", Discovery Kids
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", very Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF: -1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="CARTOON", Kids Cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
@@ -1175,7 +1173,7 @@ https://etr.bongoflix.top/live/d7541d99-14a5-4775-b90f-8681070ba80a.m3u8
 https://tvsen7.aynaott.com/disneyjr/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Nickelodeon
 https://tvsen7.aynaott.com/nicktoons/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", Discovery Kids
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", very Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF: -1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="CARTOON", Kids Cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
