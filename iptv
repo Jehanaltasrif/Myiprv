@@ -756,6 +756,8 @@ https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
 http://xtv.ooo:8080/3329133813/3329133813/167579
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" , Fifa wordcup 2026
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" , Fifa wordcup 2026-2
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100005.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
