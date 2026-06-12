@@ -1058,7 +1058,7 @@ http://xtv.ooo:8080/3329133813/3329133813/355009
 #EXTINF:-1 group-title="SPORTS" , StarzPlay Criclife 3
 http://xtv.ooo:8080/3329133813/3329133813/355010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" ,IN | STAR SPORTS SELECT 2
-http://xtv.ooo:8080/3329133813/3329133813/167579
+http://198.195.239.50:8095/starSportsSelect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS SELECT 1
 http://xtv.ooo:8080/3329133813/3329133813/167578
 #EXTINF:-1 group-title="SPORTS",  Willow Xtra
