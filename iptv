@@ -638,7 +638,7 @@ http://xtv.ooo:8080/3329133813/11223344/66211
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies
 http://198.195.239.50:8095/starMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-id="sonypixhd.in" ,IN | Sony Pix FHD
-https://mflixott.com/tv/toffee/live.php?id=sonypix_hd&e=.m3u8
+https://b4uplay.com/sliv/stream.m3u8?id=1000009258|referer=https://b4uplay.com/
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/.in.png" tvg-id="axnhd.in" ,IN |  HD
