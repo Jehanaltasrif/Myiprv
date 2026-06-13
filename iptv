@@ -725,7 +725,7 @@ https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | National Geography
 https://allinonereborn.online/opplex/live128.php?id=245967
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild
-http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
@@ -998,8 +998,6 @@ https://wildearth-plex.amagi.tv/master.m3u8
 http://v5on.site/yt-live/live.php?video_id=q8XK6oJTbtI.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild
-http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
 http://103.180.212.191:3500/live/574.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
@@ -1165,8 +1163,6 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="CARTOON", Kidsland
 https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Le2VM1LIffUO4Q-wrblXkib8YeQ-ds85qA&s" group-title="CARTOON", 3abnkids
-https://tvsen6.aynaott.com/3abnkids/index.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8GG8SIoV2EaGrdWGx64O3y6qAbnqU7RXiDYDZutuql8hC9Vgc0j5apE&s=10.png" group-title="CARTOON", ZooMoo
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv
 https://etr.bongoflix.top/live/d7541d99-14a5-4775-b90f-8681070ba80a.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LZPwHc2.png" group-title="CARTOON", Disney HD
@@ -1191,8 +1187,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_
 http://xtv.ooo:8080/live/3329133813/11223344/150483.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SwO1IA2.png" group-title="CARTOON", SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="CARTOON", Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Hungama tv
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Super Hungama tv
@@ -1201,7 +1195,6 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nOYdnaK.png" group-title="CARTOON", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8?DVR
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png" group-title="CARTOON", Pogo
@@ -1229,8 +1222,6 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick
 http://185.189.225.157/Nick/index.m3u8
 http://163.227.238.44/NickBangla/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Gopal Vaar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png" group-title="CARTOON", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="CARTOON", Sonic
