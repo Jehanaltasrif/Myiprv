@@ -509,8 +509,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="MUSIC", SHOW BOX
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC", JOO MUSIC
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="httpb4u s://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", ZING MUSIC
 https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC", Music India
@@ -560,8 +558,6 @@ http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF: -1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
-https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/zGbMPf" group-title="INDIAN", Star Gold HD
 http://103.99.249.139/stargold/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/yNuex" group-title="INDIAN", Star Gold 2
@@ -704,8 +700,6 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" , Animel planet
 https://os.mxonlive.workers.dev/azers/animalplanethd/276935.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="veryhd.in" ,very
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/very_Turbo.png" tvg-id="veryturbo.in" ,IND: very Turbo
 https://tvsen6.aynaott.com/very_turbo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
@@ -982,16 +976,14 @@ https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery
-http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/very_Turbo.png" tvg-id="veryturbo.in" ,IND: very Turbo
 https://tvsen6.aynaott.com/very_turbo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd, Adventure Earth 
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,Travel_XP 
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2212.ts
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" , Travel XP Eng
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Documentary" , wildlife
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
