@@ -728,7 +728,7 @@ https://allinonereborn.online/opplex/live128.php?id=245967
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-#EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b ,DOC | Nat Geo Wild and Worlds Deadliest
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Investigationvery.ca" ,IND: Investigation very Hindi
 http://v5on.site/yt-live/live.php?video_id=33wTmmoIMWY.m3u8 
