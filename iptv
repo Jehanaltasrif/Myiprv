@@ -92,7 +92,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
-#EXTINF: -1 tvg-logo="https://da.gd/vemYYx.jpg" group-title="BANGLADESHI", Srktv
+#EXTINF: -1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="BANGLADESHI", Srktv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
@@ -578,7 +578,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ADXlju2.png" group-title="INDIAN", Sony WAH
 https://b4uplay.com/sliv/stream.m3u8?id=1000009253|referer=https://b4uplay.com/
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
-http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
+https://b4uplay.com/sliv/stream.m3u8?id=1000009247|referer=https://b4uplay.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 https://b4uplay.com/sliv/stream.m3u8?id=1000044878|referer=https://b4uplay.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
