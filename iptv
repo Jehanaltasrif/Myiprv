@@ -716,10 +716,22 @@ http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8
+ 
 
 
-Sports....
+Sports...
+#EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-1
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100005.m3u8
+#EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-2
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-3
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+#EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-3
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b608000_sleng.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX
 https://b4uplay.com/sliv/stream.m3u8?id=1000009281|referer=https://b4uplay.com/
@@ -731,14 +743,7 @@ https://tvsen6.aynaott.com/CricketGold/index.m3u8
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
 #EXTINF:-1 group-title="SPORTS" , Goal Tv
 https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" , Fifa wordcup 2026
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" , Fifa wordcup 2026-2
-https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100005.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" , Fifa wordcup 2026-3
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" , সোনার বাংলা
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s" group-title="SPORTS", ESPN-2
