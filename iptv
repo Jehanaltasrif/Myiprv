@@ -957,7 +957,7 @@ https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery
-http://198.195.239.50:8095/discovery/tracks-v1a1/mono.m3u8
+http://10.11.12.13:3255/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/very_Turbo.png" tvg-id="veryturbo.in" ,IND: very Turbo
 https://tvsen6.aynaott.com/very_turbo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd, Adventure Earth 
