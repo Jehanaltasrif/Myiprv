@@ -260,7 +260,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
 https://tvsen5.aynaott.com/durontotv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/tv.png" group-title="BANGLADESHI",  Ekhon Tv
-https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
+https://server.itcnbd.live/proxy/ekhon_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fekhon_tv_576%2Fekhon_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dekhon_tv_576%26gp_id%3D
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekatto.png" group-title="BANGLADESHI", Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ag0z5T3.jpg" group-title="BANGLADESHI", FBTV
