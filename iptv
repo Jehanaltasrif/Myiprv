@@ -642,8 +642,8 @@ https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" tvg-id="romedynowhdin.in" ,IN | Romedy Now
 http://xtv.ooo:8080/3329133813/11223344/66282
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-id="zeecafehd.in" ,IN | Zee Cafe HD
-http://xtv.ooo:8080/3329133813/11223344/66287
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" tvg-id="zeecafehd.in" , crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-id="starmoviesselecthd.in" ,IN | Star Movies Select HD
 http://103.175.242.10:8080/starmovies/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,IN | MN+ HD
