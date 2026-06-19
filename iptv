@@ -13,7 +13,7 @@ https://ap02.iqplay.tv:8082/iqb8002/n0r1vmhtv/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s88-c-k-c0x00ffffff-no-rj" , Rodjatv
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن- العفاسي
-http://164.215.98.132:2082/8649G54859/8649G54859/4868
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن- ماهر المعيقلي
 http://164.215.98.132:2082/8649G54859/8649G54859/7217
 #EXTINF:-1 group-title="Islamic" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن تجويد- عبد الباسط
@@ -23,7 +23,7 @@ http://164.215.98.132:2082/8649G54859/8649G54859/71094
 #EXTINF:-1 group-title="Islamic" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن كامل- بيشه وا قادر
 http://164.215.98.132:2082/8649G54859/8649G54859/71444
 #EXTINF:-1 group-title="Islamic" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" , Bangla waz
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgQUXlzQaAalFxaR8ZBBy88eKqGvjZLd85ClTuQXkTVHxZVI-Bxwm1b2g&s=10" group-title="Islamic", islam
 https://tvsen6.aynaott.com/islam/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmLamwxnbUBIcjoZyLbpc_v39PoOf6vtFCROl8ovDDmGNPnX_KOTZJXA&s=10.jpg" group-title="Islamic",Iqra
@@ -418,8 +418,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" group-title="MUSIC", Dhoom Music
-
-https://tvsen6.aynaott.com/dhoom/tracks-v1a1/mono.ts.m3u8
+http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJVyPpD.jpg" group-title="MUSIC", Robindo songit
 http://tinyurl.com/Rabindrasang
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtv beat
@@ -631,14 +630,14 @@ https://b4uplay.com/sliv/stream.m3u8?id=1000009258|referer=https://b4uplay.com/
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/.in.png" tvg-id="axnhd.in" ,IN |  HD
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.m3u8
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/.in.png" tvg-id="axnhd.in" ,IN |  FAMILY
-https://tvsen7.aynaott.com/2/index.m3u8
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" tvg-id="axnhd.in" ,IN |  superrix
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix FHD
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
 http://xtv.ooo:8080/3329133813/11223344/66241
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" , MixTV
-http://xtv.ooo:8080/3329133813/11223344/66266
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" tvg-id="mnx.in" , uniques
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Action hollywood
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" tvg-id="romedynowhdin.in" ,IN | Romedy Now
@@ -997,8 +996,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Dubbed movies
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bangla Song
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bangla beats
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Bangla Movies
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
