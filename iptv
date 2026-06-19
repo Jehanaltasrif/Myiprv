@@ -637,7 +637,7 @@ https://tvsen7.aynaott.com/2/index.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
 http://xtv.ooo:8080/3329133813/11223344/66241
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,IN: MNX FHD
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" , MixTV
 http://xtv.ooo:8080/3329133813/11223344/66266
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Action hollywood
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -669,7 +669,54 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 
+Documantry---
 
+#EXTINF:-1 group-title="Documentary" ,AE: FashionTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="Documentary" ,AF: FashionTV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" ,BE: FashionTV
+https://iptv.prosto.tv/ch216/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783109682&st=xTgqNzpx4NJPo6cfuf5oLA
+#EXTINF:-1 group-title="Documentary" ,US: Nasa TV
+http://xtv.ooo:8080/3329133813/11223344/346445
+#EXTINF:-1 group-title="Documentary" very  Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/very-Science.m3u8
+https://tvsen6.aynaott.com/very_hd_bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Wild Animal
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+#EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Animal Planet
+https://sm-monirul.top/toffee/play/animal_planet_hd.m3u8
+#EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" ,US: Travel Channel
+https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery
+http://10.11.12.13:3255/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/very_Turbo.png" tvg-id="veryturbo.in" ,IND: very Turbo
+https://tvsen6.aynaott.com/very_turbo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd, Adventure Earth 
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,Travel_XP 
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2212.ts
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" , wildlife
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
+http://10.11.12.13:3255/HISTORY-TV-18-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
+http://103.180.212.191:3500/live/574.m3u8
+#EXTINF:-1 group-title="Documentary" , HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
+https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="Investigationvery.ca" ,IND: Investigation very Hindi
+http://151.80.18.177:86/very_HD/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
+http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 group-title="Documentary" ,BE: FashionTV
@@ -841,8 +888,8 @@ https://channel31.mdc6.com/1180273453/tracks-v2a1/mono.m3u8
 https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
 https://tvsen7.aynaott.com/DhamakaMovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
-http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
+#EXTINF: -1 tvg-name="DHAMAKA MOVIES" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="INDIAN", Biz Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/yNuex" group-title="INDIAN", Star Gold 2
@@ -921,8 +968,8 @@ https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
 http://xtv.ooo:8080/3329133813/11223344/66241
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,IN: MNX FHD
-http://xtv.ooo:8080/3329133813/11223344/66266
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://i.imgur.com/1ENdbZn.png" tvg-id="mnx.in" , Mix Cinema
+https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,IN | Movies Now FHD
 http://10.11.12.13:3255/MOVIES-NOW-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Fox Life FHD
@@ -940,56 +987,6 @@ http://xtv.ooo:8080/3329133813/11223344/66244
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" , Young Hollywood 
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
-
-
-Documantry---
-
-#EXTINF:-1 group-title="Documentary" ,AE: FashionTV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Documentary" ,AF: FashionTV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" ,BE: FashionTV
-http://xtv.ooo:8080/3329133813/11223344/348339
-#EXTINF:-1 group-title="Documentary" ,US: Nasa TV
-http://xtv.ooo:8080/3329133813/11223344/346445
-#EXTINF:-1 group-title="Documentary" very  Science
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/very-Science.m3u8
-https://tvsen6.aynaott.com/very_hd_bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Wild Animal
-https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
-#EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Animal Planet
-https://sm-monirul.top/toffee/play/animal_planet_hd.m3u8
-#EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
-https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" ,US: Travel Channel
-https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery
-http://10.11.12.13:3255/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/very_Turbo.png" tvg-id="veryturbo.in" ,IND: very Turbo
-https://tvsen6.aynaott.com/very_turbo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd, Adventure Earth 
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,Travel_XP 
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2212.ts
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" , wildlife
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
-http://10.11.12.13:3255/HISTORY-TV-18-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
-http://103.180.212.191:3500/live/574.m3u8
-#EXTINF:-1 group-title="Documentary" , HGTV
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-#EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
-https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="Investigationvery.ca" ,IND: Investigation very Hindi
-http://151.80.18.177:86/very_HD/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
-http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 
 Tplay------------
