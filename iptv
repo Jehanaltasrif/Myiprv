@@ -541,9 +541,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://tvsen7.aynaott.com/DhamakaMovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
 http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
-#EXTINF: -1 tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
+#EXTINF: -1 tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES-1
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
+#EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES -2
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/zGbMPf" group-title="INDIAN", Star Gold HD
 http://10.11.12.13:3255/Star-Gold/tracks-v1a1/mono.m3u8
