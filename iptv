@@ -62,6 +62,8 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 http://mag.trexlive.me/Michael88/Michael88/225782
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IbzmQq4.jpg" group-title="BANGLADESHI", AR Tv
 https://m6gdakveln93-hls-live.5centscdn.com/AN/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png" group-title="BANGLADESHI",Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JF3uGAh.png" group-title="BANGLADESHI", Alfa Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV
@@ -174,6 +176,8 @@ https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg" group-title="BANGLADESHI",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eeANyjD.jpg" group-title="BANGLADESHI", TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8 
 https://www.tbn24.com/live-tv-stream/20201_.m3u8
@@ -490,6 +494,8 @@ https://tvsen7.aynaott.com/B4UHitz/tracks-v1a1/mono.ts.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="MUSIC",Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="MUSIC", SHOW BOX
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF: -1 tvg-logo="httpb4u s://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", ZING MUSIC
@@ -715,16 +721,20 @@ http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Documentary" ,BE: FashionTV
-http://xtv.ooo:8080/3329133813/11223344/348339
+#EXTINF:-1 group-title="Documentary" , Fashion one 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
 http://xtv.ooo:8080/3329133813/11223344/346445
 #EXTINF:-1 group-title="Documentary" very  Science
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/very-Science.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Documentary",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Comidy Family
 https://tvsen5.aynaott.com/veryfamily/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://surl.li/qgtwns" , Dicovery Sony BBC EARTH 
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596" group-title="Documentary" resolution="1920@1080",4k Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://tvsen6.aynaott.com/travelxp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" , Animel planet
@@ -1047,7 +1057,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Movies 24 hours
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 209592/master.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Hindi Movies -2
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Hindi Movies
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
 
