@@ -67,7 +67,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JF3uGAh.png" group-title="BANGLADESHI", Alfa Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+https://sm-monirul.top/toffee/play/asian_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV Songsod
@@ -138,8 +138,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV
-https://server.itcnbd.live/stream/rajdhani_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png" group-title="BANGLADESHI", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
@@ -260,7 +258,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
 https://tvsen5.aynaott.com/durontotv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/tv.png" group-title="BANGLADESHI",  Ekhon Tv
-https://server.itcnbd.live/proxy/ekhon_tv/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fekhon_tv_576%2Fekhon_tv_576.m3u8%3Fbitrate%3D1000000%26channel%3Dekhon_tv_576%26gp_id%3D
+https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekatto.png" group-title="BANGLADESHI", Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ag0z5T3.jpg" group-title="BANGLADESHI", FBTV
@@ -579,7 +577,7 @@ https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 http://103.180.212.191:3500/live/484.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
-https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
+https://proximitybd-mominrocks.lovable.app/api/proxy?u=https%3A%2F%2Fsm-monirul.top%2Ftoffee%2Fplay%2Fsonyentertainmnt_hd.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Fzv8Bx87/image.jpg" group-title="INDIAN", The movie club
