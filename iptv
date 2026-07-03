@@ -574,6 +574,8 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
 https://b4uplay.com/sliv/stream.m3u8?id=1000009253|referer=https://b4uplay.com/
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
+#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX SD
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 http://103.180.212.191:3500/live/484.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
@@ -712,7 +714,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
 http://103.180.212.191:3500/live/574.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Investigationvery.ca" ,IND: Investigation very Hindi
@@ -979,7 +981,7 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
 https://server.itcnbd.live/stream/andpicture_hd.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
-https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol Cinema
