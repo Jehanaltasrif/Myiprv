@@ -192,7 +192,7 @@ https://3329133813.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla 
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
+http://172.19.178.39:18190/atn_bangla/index.fmp4.m3u8?token=a0a9ff4354c0a0c53d832b77c344331ea5575e98-7ba1b7f1cb3c0ac081ca54c866cbd203-1783304970-1783293870
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla Uk
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
@@ -918,6 +918,8 @@ https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 http://xtv.ooo:8080/live/T4S00515/820172/350891.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FRrHfYJ.jpg" group-title="CARTOON", Mr.Been
 https://ythls.armelin.one/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FRrHfYJ.jpg" group-title="CARTOON", ZB cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SR88PSTB/images-4-21.jpg" group-title="CARTOON", Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
