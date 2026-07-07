@@ -532,9 +532,9 @@ http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.
 #EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MyfKDWw.png" group-title="INDIAN", Colors Cineplex HD
-https://m3uplay.com/leo/live.m3u8?id=482&e=.m3u8|referer=https://m3uplay.com/
+https://m3uplay.com/leo/live.m3u8?id=482&e=.m3u8|er=https://m3uplay.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/20dvTcf.png" group-title="INDIAN", Colors Cinneplex Bollywood
-https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
+https://colorsscreen.com/live.php?id=1763&extension=.m3u8|er=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Colors  Superhit
 https://channel31.mdc6.com/1180273453/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
@@ -571,7 +571,7 @@ http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab HD
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ADXlju2.png" group-title="INDIAN", Sony WAH
-https://b4uplay.com/sliv/stream.m3u8?id=1000009253|referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009253|er=https://b4uplay.com/
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 https://obiramtv.pro.bd/toffee/play/sony_max.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX SD
@@ -784,6 +784,8 @@ https://cricxtv.fun/isceen.php?file=https%3A%2F%2Ftc-sg.rockstreamer.com%2Fv1%2F
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-4
 http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-5
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Caze TV BR" tvg-name="Caze TV BR" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
@@ -837,7 +839,7 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX
-https://b4uplay.com/sliv/stream.m3u8?id=1000009281|referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009281|er=https://b4uplay.com/
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-id="dsport.in" ,Sony Liv
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" , Cricket Gold
@@ -865,9 +867,9 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,CRI: TEN CRICKET HD
 https://sm-monirul.top/toffee/play/ten_cricket.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" ,CRI: SONY TEN 1 HD
-https://b4uplay.com/sliv/stream.m3u8?id=1000009276|referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009276|er=https://b4uplay.com/
 #EXTINF:-1 group-title="SPORTS" ,CRI: SONY Ten 2 
-https://b4uplay.com/sliv/stream.m3u8?id=1000009277|referer=https://b4uplay.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009277|er=https://b4uplay.com/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" , xtream sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" ,CRI: STAR SPORTS 2 HD
