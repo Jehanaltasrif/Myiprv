@@ -155,9 +155,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0QR8v4jC/NOBANNOtv-10-Copy-1024x402-1.png" group-title="BANGLADESHI", Nobanno TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", My Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BANGLADESHI", Mohona Tv
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TizGvtb.png" group-title="BANGLADESHI", Millennium Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="BANGLADESHI", Me Tv
@@ -306,7 +306,7 @@ https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", U tv
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/mono.m3u8
 #EXTINF: -1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="BANGLADESHI", T Sports
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF: -1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="BANGLADESHI", T Sports 2
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/level_0.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", IOV TV
@@ -559,10 +559,10 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
 http://103.175.242.10:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
-https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
+http://103.253.18.58:8000/play/a02u
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN", Star Gold Romance
-http://xtv.ooo:8080/live/3329133813/11223344/66186.ts
+http://103.253.18.58:8000/play/a017
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
@@ -774,7 +774,8 @@ http://v5on.site/yt-live/live.php?video_id=33wTmmoIMWY.m3u8
 http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
-#EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
+#EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", food-Food
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
  
 
 
@@ -937,10 +938,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 http://45.148.145.57/IN_StarGold2/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
 http://103.175.242.10:8080/stargoldthrill/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
-https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN", Star Gold Romance
-http://xtv.ooo:8080/live/3329133813/11223344/66186.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
@@ -954,7 +951,10 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Fzv8Bx87/image.jpg" group-title="INDIAN", The movie club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+https://pb-dkdpz5so0aqqr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/TMC_IN.m3u8?ads.ads_cdn=ak&ads.cdn=ak&pb_type=pb-dkdpz5so0aqqr_akamai
+akamaized
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Fzv8Bx87/image.jpg" group-title="INDIAN", The movie club 2
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OujQ9gL.png" group-title="INDIAN", Zee Tv HD
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/YS0GWpSY/zee-tv-marathi-hd.jpg" group-title="INDIAN", Zee Marathi HD
