@@ -67,7 +67,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JF3uGAh.png" group-title="BANGLADESHI", Alfa Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV Songsod
@@ -232,7 +232,7 @@ http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESHI", Boishakhi Tv
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
 https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" group-title="BANGLADESHI", Channel I
