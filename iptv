@@ -192,7 +192,7 @@ https://3329133813.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla 
-http://172.19.178.39:18190/atn_bangla/index.fmp4.m3u8?token=a0a9ff4354c0a0c53d832b77c344331ea5575e98-7ba1b7f1cb3c0ac081ca54c866cbd203-1783304970-1783293870
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla Uk
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
@@ -788,9 +788,11 @@ https://test-bioscope.streamxbd.workers.dev/api/stream/bioscope/seg?u=https%3A%2
 #EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-4
-https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8?nocache=1783445801406
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/540p-vtt/index.m3u8
 #EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel-5
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fifa World Cup 2026"tvg-logo="https://tv.moviect.com/wp-content/uploads/2026/06/fifa2026.tv_.moviect.com_-681x1024.png" tvg-id="sonysixhd.in" , Channel bioscope 
+https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
 #EXTINF:-1 tvg-id="Caze TV BR" tvg-name="Caze TV BR" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1 UHD" tvg-name="beIN SPORTS 1 UHD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",beIN SPORTS 1 UHD
