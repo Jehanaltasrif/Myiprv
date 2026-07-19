@@ -210,7 +210,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLADESHI", Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8?nimblesessionid=1086278100
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLADESHI", Anando Tv
-https://sm-monirul.top/toffee/play/anandatv.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV national
 https://s1.itcnbd.live/btv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://209.97.175.236/img/BTV.png" group-title="BANGLADESHI", BTV News
@@ -560,9 +560,8 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://103.175.242.10:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
 http://103.253.18.58:8000/play/a02u
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN", Star Gold Romance
-http://103.253.18.58:8000/play/a017
+http://202.70.146.135:8000/play/a044/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
@@ -632,7 +631,7 @@ hollywood----
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
 http://xtv.ooo:8080/3329133813/11223344/66211
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies
-http://198.195.239.50:8095/starMovies/tracks-v1a1/mono.m3u8
+http://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" tvg-id="sonypixhd.in" ,IN | Sony Pix FHD
 https://sm-monirul.top/toffee/play/sonypix_hd.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
@@ -916,6 +915,8 @@ Hindi Movie---
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", Bigstarmovies
+https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors
