@@ -56,6 +56,7 @@ https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="BANGLADESHI", Atn Music
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXeAcQ16bCmgk0g5Dd33XKgGkPvYVaDNs1SPiOlFrJznZPEiEPa-G92SUo&s=10.jpg" group-title="BANGLADESHI", pcv movie
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V0R3PoR.png" group-title="BANGLADESHI", Apon Tv
@@ -208,7 +209,7 @@ https://m6gdakveln93-hls-live.5centscdn.com/AN/d0dbe915091d400bd8ee7f27f0791303.
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JF3uGAh.png" group-title="BANGLADESHI", Alfa Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/chunks.m3u8?
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLADESHI", Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8?nimblesessionid=1086278100
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLADESHI", Anando Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV national
@@ -901,8 +902,8 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 http://163.227.238.44/SonicBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bqz9EXY.png" group-title="CARTOON", WOW Kids
 https://ekanno.vercel.app/live/wow-kidz-hindi.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vbi9liD.jpg" group-title="CARTOON", WOW Comedy
-http://xtv.ooo:8080/live/T4S00515/820172/311774.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vbi9liD.jpg" group-title="CARTOON", oggy & coocross
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5AygzFq.jpg" group-title="CARTOON", WOW Kids Action
 http://xtv.ooo:8080/live/T4S00515/820172/314753.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NDpwAkN.png" group-title="CARTOON", Sony Yay
@@ -970,7 +971,7 @@ https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & explore
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
-https://server.itcnbd.live/stream/andpicture_hd.m3u8
+https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
