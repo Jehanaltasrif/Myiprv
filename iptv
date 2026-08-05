@@ -557,6 +557,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES -2
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
+http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/zGbMPf" group-title="INDIAN", Star Gold HD
 http://10.11.12.13:3255/Star-Gold/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/yNuex" group-title="INDIAN", Star Gold 2
@@ -731,7 +733,7 @@ https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Investigationvery.ca" ,IND: Investigation very Hindi
 http://151.80.18.177:86/very_HD/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
-http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8 
+http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
@@ -1043,7 +1045,7 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="24/7", Dubbed movies
 https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="24/7", Bangla beats
-https://tplay.live/originals/bengali-beats/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="24/7", Bangla Movies
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="24/7", Tplay music
