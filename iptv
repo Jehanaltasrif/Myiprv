@@ -170,7 +170,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png" group-title="BANGLADESHI", CHANNEL S uk
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
+https://cd198.anystream.uk:9092/web/tvchsuk03/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/rw8iAU9ZcB.jpg" group-title="BANGLADESHI",Thikana
@@ -353,7 +353,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/oPlwK" group-title="KOLKATA", TV9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
+http://103.175.73.12:8080/live/664/664_0.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
 http://103.159.180.34:5001/render.m3u8?auth=TUZ6M5QfShdpTRvgyd62WUwYmX9-Dr5jmiWSyOSZq3nCQuoZ3vBllK09WmjFHzBLHSLeD0O8IJjzjLV9xEGHDgLHGyK2paDdFQKyRNQsPiockzwtkqN2EyTSxa5ym5R8dEacPMmlzPOFNyvLZXQ6PB8PNtWu4VUYlH6y2znJYfeNFQVT33Reb6lKZUordcfGiLd5jcmqaSMwtSsC1CfVbutFoiSXKEfBGKImLDtqbqGPEa4SiCPL-W6jODuJmlCkPDQHyYyWHFyMbehrhqA7oYFNpB8WYeACw_44GucZO-y3UX28iP4MomwWEf18OcTwoo62A8VIpUXTM3y22F9bBm9iYo8aJtbR&channel_key_id=625
 
@@ -376,7 +376,7 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Sanonda tv
-https://live.sanandatelevision.in/sananda/index.m3u8
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/9k5d97ue" group-title="KOLKATA", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QaTnRJq.png" group-title="KOLKATA", R Bangla
@@ -402,8 +402,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/oPlwK" group-title="KOLKATA", TV9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
 http://103.60.204.26:3255/ZeeBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
@@ -433,6 +431,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://etr.bongoflix.top/live/dbefbb0b-b2e0-4e34-8108-8852d53ee766.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
 https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToqBmd9EiAYZZrVuX4Ic706q4_fMLdzx3tYA&s" group-title="MUSIC", Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmi Gane
 https://is.gd/WOeLN9.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FztbHTPS/NOW-80s-logo.png" group-title="MUSIC", 90s
