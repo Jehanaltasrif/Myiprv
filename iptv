@@ -578,7 +578,7 @@ https://s2.itcnbd.live/server-2/stream/sony_entertainment.m3u8
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Fzv8Bx87/image.jpg" group-title="INDIAN", The movie club
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/TMC_IN.m3u8?ads.ads_cdn=ak&ads.cdn=ak&pb_type=pb-dkdpz5so0aqqr_akamai
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Fzv8Bx87/image.jpg" group-title="INDIAN", ie club 2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Fzv8Bx87/image.jpg" group-title="INDIAN", Movie club 2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OujQ9gL.png" group-title="INDIAN", Zee Tv
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
