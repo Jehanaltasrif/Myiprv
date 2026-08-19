@@ -173,10 +173,10 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eeANyjD.jpg" group-title="BANGLADESHI", TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8 
 https://www.tbn24.com/live-tv-stream/20201_.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qKf0Ih3.png" group-title="BANGLADESHI", TV ONE
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AnUlFWN.jpg" group-title="BANGLADESHI", Times 24
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQyBRGZR/eptv-large-1784915389231-9f42f1b48d424c8c.webp"group-title="BABANGLADESHI EP TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg"group-title="BABABANGLADESHI", Enter TV
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yRS012W/images-19.jpg" group-title="BANGLADESHI", Time Television
 https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Nbw3bKO.png" group-title="BANGLADESHI", Probashi Tv
