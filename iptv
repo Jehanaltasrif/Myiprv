@@ -133,7 +133,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", RTV
 https://tvsen5.aynaott.com/RtvHD/tracks-v1a1/mono.ts.m3u8?e=1782665440
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
-https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png" group-title="BANGLADESHI", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
@@ -297,7 +297,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/le
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
 
 
-KOLKATA0
+
+EXTINF: -1 tvg-logo="https://i.postimg.cc/rFRWH9gQ/image.jpg" group-title="KOLKATA", DESI MUSICKATA0
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", ABP ANANDA TV
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
@@ -319,6 +320,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 http://103.175.73.12:8080/live/347/347_0.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/9k5d97ue" group-title="KOLKATA", Zee sonar Bangla
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkkIoS_6JOMdeZ_Ea_YsWg9PeHq9fmjMmCg&sg" group-title="KOLKATA", ZB MUSIC
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bUhoxxw.png" group-title="KOLKATA", News 18
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwZQFXi9vdY39Mc6-Fd2Bv1IuweN5oE7Fg3L4SjsFtXCDmJmUFOxRnqM&s=10.png" group-title="KOLKATA", Mon tv
