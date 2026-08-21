@@ -56,7 +56,7 @@ https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="BANGLADESHI", Atn Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg"group-title=BANGLADESHI",Enter TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg"group-title=BANGLADESHI", Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXeAcQ16bCmgk0g5Dd33XKgGkPvYVaDNs1SPiOlFrJznZPEiEPa-G92SUo&s=10.jpg" group-title="BANGLADESHI", pcv movie
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
