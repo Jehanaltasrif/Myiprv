@@ -573,7 +573,7 @@ https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX SD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
-https://s2.itcnbd.live/server-2/stream/sonymax_2.m3u8
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
 https://s2.itcnbd.live/server-2/stream/sony_entertainment.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal
